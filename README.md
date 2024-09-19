@@ -1,5 +1,6 @@
 Hi there 👋, I'm Sai Kireeti!
-I am a passionate React TypeScript Developer with over 4 years of experience in building robust and scalable web applications. I enjoy solving complex problems and translating requirements into high-quality code.
+
+I am a passionate React Developer with over 4 years of experience in building robust and scalable web applications. I enjoy solving complex problems and translating requirements into high-quality code.
 
 🔧 My core technical skills include:
 
