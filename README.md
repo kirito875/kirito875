@@ -1,14 +1,13 @@
-Hi there 👋, I'm Sai Kireeti!
+# Hi there 👋, I'm Sai Kireeti!
 
-I am a passionate React Developer with over 4 years of experience in building robust and scalable web applications. I enjoy solving complex problems and translating requirements into high-quality code.
+I am a passionate **React TypeScript Developer** with over 4 years of experience in building robust and scalable web applications. I enjoy solving complex problems and translating requirements into high-quality code.
 
-🔧 My core technical skills include:
-
-Frontend: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Redux, Context API
-Styling: Advanced CSS, SCSS, Styled-Components, Bootstrap, Material-UI
-Backend: Node.js, Express
-DevOps: Jenkins, Docker, CI/CD
-Tools: Git, Webpack, Babel, Jira, VS Code
+## 🔧 My Core Technical Skills:
+- **Frontend**: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Redux, Context API
+- **Styling**: Advanced CSS, SCSS, Styled-Components, Bootstrap, Material-UI
+- **Backend**: Node.js, Express
+- **DevOps**: Jenkins, Docker, CI/CD
+- **Tools**: Git, Webpack, Babel, Jira, VS Code
 
 
 ## 🌐 Socials:
